@@ -1,2 +1,4 @@
 john
-peter
+Simon
+andrew
+richard
